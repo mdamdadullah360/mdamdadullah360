@@ -7,7 +7,7 @@ I'm a Front End Web Developer who is dedicated to creating error-free websites t
 
 Skills:  HTML / CSS / SASS / Bootstrap / JS  and Graphic Design
 
-- 🔭 I’m currently working on Codeinnovior 
+- 🔭 I’m currently working on Goinnovior 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Developer and Graphic Designer 
